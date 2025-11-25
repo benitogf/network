@@ -1,5 +1,7 @@
 # network
 
+[![CI](https://github.com/benitogf/network/actions/workflows/ci.yml/badge.svg)](https://github.com/benitogf/network/actions/workflows/ci.yml)
+
 Minimal helpers around Golang `net` and `net/http` packages.
 
 ## Installation
